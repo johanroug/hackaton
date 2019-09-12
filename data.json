@@ -1,44 +1,485 @@
-[
+﻿[
   {
     "radialDegree": 0,
     "scanCirleRadius": 4.3826932358995885,
-    "z": 8.765386471799177,
-    "y": 0,
-    "x": 4.3826932358995885
+    "z": 0,
+    "y": 12,
+    "x": 0
   },
   {
     "radialDegree": 0,
     "scanCirleRadius": 17.88854381999832,
-    "z": 35.77708763999664,
-    "y": 0,
-    "x": 17.88854381999832
+    "z": -3.8,
+    "y": 22,
+    "x": -3
   },
   {
     "radialDegree": 0,
     "scanCirleRadius": 13.416407864998739,
-    "z": 26.832815729997478,
-    "y": 0,
-    "x": 13.416407864998739
+    "z": 1.8,
+    "y": 21,
+    "x": -2.5
   },
   {
     "radialDegree": 45,
     "scanCirleRadius": 7.155417527999327,
-    "z": 14.310835055998654,
-    "y": 5.059644256269406,
-    "x": 5.059644256269407
+    "z": 3.3,
+    "y": 22,
+    "x": -0.8
   },
   {
     "radialDegree": 45,
     "scanCirleRadius": 1.7888543819998317,
     "z": 3.5777087639996634,
-    "y": 1.2649110640673515,
-    "x": 1.2649110640673518
+    "y": 25,
+    "x": 1.35
   },
   {
     "radialDegree": 45,
     "scanCirleRadius": 8.94427190999916,
-    "z": 17.88854381999832,
-    "y": 6.324555320336758,
-    "x": 6.32455532033676
+    "z": 3.08,
+    "y": 22,
+    "x": 2.68
+  }, 
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 4.3826932358995885,
+    "z": 1.89,
+    "y": 24,
+    "x": 3.83
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 17.88854381999832,
+    "z": -3.81,
+    "y": 22,
+    "x": 4.36
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 13.416407864998739,
+    "z": -2.68,
+    "y": 23,
+    "x": 3.19
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 7.155417527999327,
+    "z": -3.36,
+    "y": 24,
+    "x": 2.163944
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 1.7888543819998317,
+    "z": -3.610682,
+    "y": 22,
+    "x": 0
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 8.94427190999916,
+    "z": -3.08537,
+    "y": 23,
+    "x": -1.311646
+  }, 
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 4.3826932358995885,
+    "z": -1.891232,
+    "y": 22,
+    "x": -2.466094
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 17.88854381999832,
+    "z": -3.814,
+    "y": 24,
+    "x": -5.92
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 13.416407864998739,
+    "z": 3.250838,
+    "y": 23,
+    "x": -5.064615
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 7.155417527999327,
+    "z": 5.103268,
+    "y": 22,
+    "x": -4.084411
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 1.7888543819998317,
+    "z": 6.0465,
+    "y": 23,
+    "x": -1.973119
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 8.94427190999916,
+    "z": 6.945382,
+    "y": 21,
+    "x": -0.05773008
+  }, 
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 4.3826932358995885,
+    "z": 6.48927,
+    "y": 21,
+    "x": 1.915749
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 17.88854381999832,
+    "z": 5.545117,
+    "y": 21,
+    "x": 4.273438
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 13.416407864998739,
+    "z": 3.398905,
+    "y": 20,
+    "x": 6.348266
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 7.155417527999327,
+    "z": -3.8146,
+    "y": 20,
+    "x": 7.67
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 1.7888543819998317,
+    "z": -3.437873,
+    "y": 20,
+    "x": 6.765403
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 8.94427190999916,
+    "z": -4.825747,
+    "y": 20,
+    "x": 5.194753
+  }, 
+    {
+    "radialDegree": 0,
+    "scanCirleRadius": 4.3826932358995885,
+    "z": -6.394431,
+    "y": 21,
+    "x": 3.496014
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 17.88854381999832,
+    "z": -7.273293,
+    "y": 20,
+    "x": 7.482107
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 13.416407864998739,
+    "z": -5.047297,
+    "y": 19,
+    "x": 9.611911
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 7.155417527999327,
+    "z": -6.567598,
+    "y": 21,
+    "x": 1.387108
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 1.7888543819998317,
+    "z": -6.862711,
+    "y": 20,
+    "x": -0.6166056
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 8.94427190999916,
+    "z": -5.864254,
+    "y": 21,
+    "x": -3.109957
+  },   
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 4.3826932358995885,
+    "z": -3.594575,
+    "y": 21,
+    "x": -5.304183
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 17.88854381999832,
+    "z": -5.277319,
+    "y": 22,
+    "x": -8.107965
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 13.416407864998739,
+    "z": -8.609543,
+    "y": 23,
+    "x": -4.886535
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 7.155417527999327,
+    "z": -10.07543,
+    "y": 24,
+    "x": -1.22594
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 1.7888543819998317,
+    "z": -9.898609,
+    "y": 23,
+    "x": 1.743268
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 8.94427190999916,
+    "z": -9.387938,
+    "y": 21,
+    "x": 4.811979
+  }, 
+    {
+    "radialDegree": 0,
+    "scanCirleRadius": 4.3826932358995885,
+    "z": -3.81469,
+    "y": 22,
+    "x": -9.27
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 17.88854381999832,
+    "z": 4.899636,
+    "y": 21,
+    "x": -7.980772
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 13.416407864998739,
+    "z": 7.492365,
+    "y": 20,
+    "x": -6.317127
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 7.155417527999327,
+    "z": 9.11325,
+    "y": 19,
+    "x": -3.321287
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 1.7888543819998317,
+    "z": 11.94198,
+    "y": 18,
+    "x": -4.564816
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 8.94427190999916,
+    "z": 10.19684,
+    "y": 19,
+    "x": -0.405372
+  }, 
+    {
+    "radialDegree": 0,
+    "scanCirleRadius": 4.3826932358995885,
+    "z": 9.780597,
+    "y": 19,
+    "x": 2.539985
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 17.88854381999832,
+    "z": 8.357581,
+    "y": 19,
+    "x": 6.093478
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 13.416407864998739,
+    "z": 5.122831,
+    "y": 18,
+    "x": 9.220648
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 7.155417527999327,
+    "z": -3.814697,
+    "y": 18,
+    "x": 10.94
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 1.7888543819998317,
+    "z": -9.530877,
+    "y": 16,
+    "x": 9.591937
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 8.94427190999916,
+    "z": -12.26244,
+    "y": 16,
+    "x": 6.07564
+  }, 
+    {
+    "radialDegree": 0,
+    "scanCirleRadius": 4.3826932358995885,
+    "z": -12.97109,
+    "y": 16,
+    "x": 2.071787
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 17.88854381999832,
+    "z": -13.16044,
+    "y": 16,
+    "x": -1.811039
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 13.416407864998739,
+    "z": -12.15919,
+    "y": 15,
+    "x": -4.040179
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 7.155417527999327,
+    "z": -11.24571,
+    "y": 15,
+    "x": -6.592479
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 1.7888543819998317,
+    "z": -9.319107,
+    "y": 16,
+    "x": -8.443424
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 8.94427190999916,
+    "z": -6.893188,
+    "y": 16,
+    "x": -10.80029
+  }, 
+    {
+    "radialDegree": 0,
+    "scanCirleRadius": 4.3826932358995885,
+    "z": -3.764206,
+    "y": 17,
+    "x": -12.1703
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 17.88854381999832,
+    "z": -3.8146,
+    "y": 16,
+    "x": -12.36
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 13.416407864998739,
+    "z": 3.245167,
+    "y": 16,
+    "x": -12.31102
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 7.155417527999327,
+    "z": 6.42047,
+    "y": 15,
+    "x": -10.6706
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 1.7888543819998317,
+    "z": 9.786489,
+    "y": 15,
+    "x": -8.461113
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 8.94427190999916,
+    "z": 13.31905,
+    "y": 15,
+    "x": -0.7392153
+  }, 
+    {
+    "radialDegree": 0,
+    "scanCirleRadius": 4.3826932358995885,
+    "z": 12.81647,
+    "y": 15,
+    "x": 3.115778
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 17.88854381999832,
+    "z": 12.4854,
+    "y": 16,
+    "x": 5.536736
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 13.416407864998739,
+    "z": 10.95176,
+    "y": 16,
+    "x": 7.772264
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 7.155417527999327,
+    "z": 9.569147,
+    "y": 15,
+    "x": 10.05813
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 1.7888543819998317,
+    "z": 6.712957,
+    "y": 16,
+    "x": 11.8701
+  },
+  {
+    "radialDegree": 45,
+    "scanCirleRadius": 8.94427190999916,
+    "z": 3.665724,
+    "y": 16,
+    "x": 13.20429
+  }, 
+    {
+    "radialDegree": 0,
+    "scanCirleRadius": 4.3826932358995885,
+    "z": -3.81469,
+    "y": 16,
+    "x": 14.08
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 17.88854381999832,
+    "z": -3.160502,
+    "y": 14,
+    "x": 13.34129
+  },
+  {
+    "radialDegree": 0,
+    "scanCirleRadius": 13.416407864998739,
+    "z": -6.592739,
+    "y": 15,
+    "x": 12.34527
   }
 ]
