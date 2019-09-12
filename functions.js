@@ -40,13 +40,8 @@ const data = [
 
 // Make JSON for Anatoli
 data.forEach((item, index) => {
-  output.push({
-    radialDegree: item.radialDegree, 
-    data: []
-  });
-
   item.data.forEach(dataItem => {
-    output[index].data.push(xy(dataItem.unitMeasure, dataItem.verticalAngle, item.radialDegree));
+    output.push(xy(dataItem.unitMeasure, dataItem.verticalAngle, item.radialDegree));
   });
 });
 
@@ -74,6 +69,8 @@ function xy(unitMeasure, verticalAngle, radialDegree) {
   }
 
   return {
+    radialDegree: radialDegree,
+    scanCirleRadius: line_e,
     z: line_d,
     y: y,
     x: x
