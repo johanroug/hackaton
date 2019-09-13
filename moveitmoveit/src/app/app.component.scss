@@ -1,0 +1,21 @@
+::ng-deep html,
+::ng-deep body {
+  padding: 0;
+  margin: 0;
+}
+
+::ng-deep body {
+  background: url("https://cdn11.bigcommerce.com/s-8715e/images/stencil/1280x1280/products/124210/371228/PSD603__57767.1566493793.jpg?c=2?imbypass=on");
+  background-size: 200%;
+}
+.button {
+  background: red;
+  border: none;
+  box-shadow: 1px 1px 20px 10px #000;
+  width: 96vw;
+  height: 96vh;
+  color: #fff;
+  font-size: 170px;
+  margin: 2vh 2vw;
+  border-radius: 50%;
+}
